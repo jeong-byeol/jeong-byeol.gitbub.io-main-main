@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/real-my-blog/static/css/main.0928b7d3.css",
+    "main.js": "/real-my-blog/static/js/main.7e04bf25.js",
+    "static/js/453.81a138c7.chunk.js": "/real-my-blog/static/js/453.81a138c7.chunk.js",
+    "index.html": "/real-my-blog/index.html",
+    "main.0928b7d3.css.map": "/real-my-blog/static/css/main.0928b7d3.css.map",
+    "main.7e04bf25.js.map": "/real-my-blog/static/js/main.7e04bf25.js.map",
+    "453.81a138c7.chunk.js.map": "/real-my-blog/static/js/453.81a138c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0928b7d3.css",
+    "static/js/main.7e04bf25.js"
+  ]
+}
